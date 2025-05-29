@@ -1,3 +1,8 @@
+---
+title: BIOS
+layout: Emulators/BIOS
+---
+
 # BIOS Files and Supported ROM Formats
 
 ## Amiga
